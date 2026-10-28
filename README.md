@@ -76,4 +76,4 @@ En son kararlı sürümü aşağıdaki doğrudan bağlantılardan indirebilirsin
 ## 🌐 İletişim & Destek
 
 - **Web Sitesi:** [https://metriclass.com.tr](https://metriclass.com.tr)
-- **E-Posta:** [bilgi@classtool.app](mailto:bilgi@classtool.app)
+- **E-Posta:** [destek@metriclass.com.tr](mailto:destek@metriclass.com.tr)
