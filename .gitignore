@@ -1,0 +1,9 @@
+# MetriClass Distribution Hub .gitignore
+*.exe
+*.deb
+*.tar.gz
+*.zip
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

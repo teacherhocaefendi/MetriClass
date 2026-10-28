@@ -1,0 +1,7 @@
+{
+  "name": "MetriClass",
+  "app": "MetriClass",
+  "version": "1.0.0",
+  "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.0/MetriClass_Setup_v1.0.0.exe",
+  "changelog": "• MetriClass v1.0.0 Resmi Kararlı Lansman Sürümü.\n• Akıllı sınıf yönetimi, dinamik oturma planı, yoklama ve sözlü notu ağırlıklandırma.\n• 15 Pedagojik Akıllı Tahta Oyunu ve telafi modu.\n• KVKK uyumlu AES-256 (Fernet) şifreli yerel ve bulut yedekleme altyapısı.\n• Akıllı tahta dokunmatik ekran optimizasyonu, 4 kurumsal tema ve Deep Freeze uyumu.\n• Donanıma kilitli (HWID) güvenli oturum ve çevrimdışı (offline) çalışma desteği."
+}
