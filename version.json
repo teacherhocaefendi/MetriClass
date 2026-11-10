@@ -1,7 +1,25 @@
 {
   "name": "MetriClass",
   "app": "MetriClass",
-  "version": "1.0.0",
-  "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.0/MetriClass_Setup_v1.0.0.exe",
-  "changelog": "• MetriClass v1.0.0 Resmi Kararlı Lansman Sürümü.\n• Akıllı sınıf yönetimi, dinamik oturma planı, yoklama ve sözlü notu ağırlıklandırma.\n• 15 Pedagojik Akıllı Tahta Oyunu ve telafi modu.\n• KVKK uyumlu AES-256 (Fernet) şifreli yerel ve bulut yedekleme altyapısı.\n• Akıllı tahta dokunmatik ekran optimizasyonu, 4 kurumsal tema ve Deep Freeze uyumu.\n• Donanıma kilitli (HWID) güvenli oturum ve çevrimdışı (offline) çalışma desteği."
+  "version": "1.0.1",
+  "title": "MetriClass v1.0.1 Güncellemesi",
+  "is_mandatory": false,
+  "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Setup_v1.0.1.exe",
+  "installer": {
+    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Setup_v1.0.1.exe",
+    "size_bytes": 102649571,
+    "sha256": "ad3134e60aebcf117a8fe0fda89b097c9d42d386771402cb2221f3e77adead52"
+  },
+  "patch": {
+    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Patch_v1.0.1.zip",
+    "size_bytes": 58434680,
+    "sha256": "e513c9e5cc0377a5250364350d2c372a17c7b89d679203b60a4f9e1261c72b81"
+  },
+  "linux_deb": {
+    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/metriclass_1.0.1_amd64.deb",
+    "size_bytes": 44303854,
+    "sha256": "71f5ae139f70ae387f0f84797bf2bce1d3ccb2a798c0c252fbaf46cbc871f587"
+  },
+  "min_patch_version": "1.0.0",
+  "changelog": "• MetriClass v1.0.1 Kararlı Güncelleme Sürümü.\n• 15 Pedagojik Akıllı Tahta Oyununun tamamında arayüz, tema, çift dil (TR/EN) ve dokunmatik ekran optimizasyonları tamamlandı.\n• Hızlı Quiz, Boşluk Doldurma, Adam Asmaca, Kelime Tabu ve Kare Bulmaca oyunlarındaki buton, font ve düzen sorunları giderildi.\n• Konfeti ve görsel efektlerdeki performans (FPS drop) sorunu optimize edildi.\n• KVKK ve AES-256 çift anahtarlı şifreleme altyapısı ve geriye dönük veri uyumluluğu korundu.\n• Otomatik güncelleme ve delta yama (patch) mekanizması kararlı hale getirildi."
 }
