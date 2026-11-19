@@ -1,25 +1,26 @@
 {
   "name": "MetriClass",
   "app": "MetriClass",
-  "version": "1.0.1",
-  "title": "MetriClass v1.0.1 Güncellemesi",
+  "version": "1.0.2",
+  "title": "MetriClass v1.0.2 Kararlı Sürüm & Tema Güncellemesi",
   "is_mandatory": false,
-  "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Setup_v1.0.1.exe",
+  "min_supported_version": "1.0.0",
+  "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.2/MetriClass_Setup_v1.0.2.exe",
   "installer": {
-    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Setup_v1.0.1.exe",
-    "size_bytes": 102668541,
-    "sha256": "40932285df0fec2a143a2c4cf3ce07f8d9e7836e52d7729ee97f88386b5550a2"
+    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.2/MetriClass_Setup_v1.0.2.exe",
+    "size_bytes": 84356781,
+    "sha256": "65229187a6f0dd73fe88a54e919267d7d7032501250b80f1c5498d9d439a1b73"
   },
   "patch": {
-    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/MetriClass_Patch_v1.0.1.zip",
-    "size_bytes": 58513645,
-    "sha256": "b57d43a29f2f55a60b77d0346fe2013484cffde48066c4fdb47f55f7f7eaf2cd"
+    "download_url": "",
+    "size_bytes": 0,
+    "sha256": ""
   },
   "linux_deb": {
-    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.1/metriclass_1.0.1_amd64.deb",
-    "size_bytes": 44306792,
-    "sha256": "6d4c6598124d212ff942ec6f21108dbe1d638438f60e15a4d726ddac30a9792a"
+    "download_url": "https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.2/metriclass_1.0.2_amd64.deb",
+    "size_bytes": 26973376,
+    "sha256": "406c1ad661ae1b1762c5b6eaa433ba4253ca348f61db79fb9006535a6044d6dd"
   },
   "min_patch_version": "1.0.0",
-  "changelog": "• MetriClass v1.0.1 Kararlı Güncelleme Sürümü.\n• 15 Pedagojik Akıllı Tahta Oyununun tamamında arayüz, tema, çift dil (TR/EN) ve dokunmatik ekran optimizasyonları tamamlandı.\n• Hızlı Quiz, Boşluk Doldurma, Adam Asmaca, Kelime Tabu ve Kare Bulmaca oyunlarındaki buton, font ve düzen sorunları giderildi.\n• Konfeti ve görsel efektlerdeki performans (FPS drop) sorunu optimize edildi.\n• KVKK ve AES-256 çift anahtarlı şifreleme altyapısı ve geriye dönük veri uyumluluğu korundu.\n• Otomatik güncelleme ve delta yama (patch) mekanizması kararlı hale getirildi."
+  "changelog": "• 4 Yeni Tema Eklendi: 🌾 Çayır & Çiftlik, ❄️ Kar Bahçesi, 🌿 Zümrüt Orman ve 🌅 Gün Batımı.\n• Tüm açılır menü, diyalog, yedekleme merkezi ve etkileşimli rehber pencerelerinde tam tema uyumu.\n• Modern güncelleme ekranı: Inno arayüzünü göstermeden canlı % ilerleme, 'Yeniden Başlat' veya 'Programı Kapat' seçenekleri ve kurulum doğrulamalı paket koruma.\n• Sınıf/şube standardizasyonu, sınıf ekleme sonrası otomatik geçiş ve güncelleme öncesi şifreli yedekleme.\n• Cython native ikili kod koruması + Pardus 23 ETAP & Windows Google GenAI/REST kararlılığı."
 }
