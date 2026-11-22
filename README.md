@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sürüm-v1.0.0_Kararlı-0ea5e9?style=for-the-badge&logo=rocket" alt="Sürüm" />
+  <img src="https://img.shields.io/badge/Sürüm-v1.0.3_Kararlı-0ea5e9?style=for-the-badge&logo=rocket" alt="Sürüm" />
   <img src="https://img.shields.io/badge/Platform-Windows_10%2F11_%7C_Pardus_ETAP-10b981?style=for-the-badge&logo=windows" alt="Platform" />
   <img src="https://img.shields.io/badge/Güvenlik-KVKK_%7C_AES--256-6366f1?style=for-the-badge&logo=shield" alt="Güvenlik" />
   <img src="https://img.shields.io/badge/Lisans-Ticari_Telif_Haklı-f59e0b?style=for-the-badge" alt="Lisans" />
@@ -43,8 +43,8 @@ En son kararlı sürümü aşağıdaki doğrudan bağlantılardan indirebilirsin
 
 | Platform | Kurulum Dosyası | Format | Mimari | İndir |
 | :--- | :--- | :---: | :---: | :---: |
-| **Windows** (10, 11, 8.1, 7) | `MetriClass_Setup_v1.0.0.exe` | `.exe` Kurulum Sihirbazı | 64-bit | [⬇️ Windows İndir](https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.0/MetriClass_Setup_v1.0.0.exe) |
-| **Pardus ETAP / Debian** | `metriclass_1.0.0_amd64.deb` | `.deb` Paket Yöneticisi | 64-bit | [⬇️ Pardus / Linux İndir](https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.0/metriclass_1.0.0_amd64.deb) |
+| **Windows** (10, 11, 8.1, 7) | `MetriClass_Setup_v1.0.3.exe` | `.exe` Kurulum Sihirbazı | 64-bit | [⬇️ Windows İndir](https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.3/MetriClass_Setup_v1.0.3.exe) |
+| **Pardus ETAP / Debian** | `metriclass_1.0.3_amd64.deb` | `.deb` Paket Yöneticisi | 64-bit | [⬇️ Pardus / Linux İndir](https://github.com/teacherhocaefendi/MetriClass/releases/download/v1.0.3/metriclass_1.0.3_amd64.deb) |
 
 ---
 
